@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel
 - 👀 I’m interested in data science, AI, probability, statistics and competitive programming.
-- 🌱 I’m currently learning db
+- 🌱 Love dbs
 - 📫 You reach me on axelarecar@gmail.com
 
 <!---
